@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">いらすとや じゃんけん</string>
+    <string name="message_init">最初は、ぐー！じゃんけん...</string>
+    <string name="message_win">かち</string>
+    <string name="message_lose">まけ</string>
+    <string name="message_once">あいこ</string>
+    <string name="message_rock">ぐー</string>
+    <string name="message_scissors">ちょき</string>
+    <string name="message_paper">ぱー</string>
+</resources>
