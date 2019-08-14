@@ -1,4 +1,4 @@
-package jp.ricecakesoftware.irasutoyarock_paper_scissors;
+package jp.ricecakesoftware.irasutoyarockpaperscissors;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package jp.ricecakesoftware.irasutoyarock_paper_scissors.viewmodels;
+package jp.ricecakesoftware.irasutoyarockpaperscissors.viewmodels;
 
 import android.databinding.BaseObservable;
 import android.databinding.Bindable;
@@ -7,8 +7,8 @@ import android.view.View;
 
 import java.util.Random;
 
-import jp.ricecakesoftware.irasutoyarock_paper_scissors.BR;
-import jp.ricecakesoftware.irasutoyarock_paper_scissors.R;
+import jp.ricecakesoftware.irasutoyarockpaperscissors.BR;
+import jp.ricecakesoftware.irasutoyarockpaperscissors.R;
 
 /**
  * メインビューモデル

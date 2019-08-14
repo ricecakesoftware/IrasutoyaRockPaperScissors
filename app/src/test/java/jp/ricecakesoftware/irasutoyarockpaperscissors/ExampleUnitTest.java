@@ -1,4 +1,4 @@
-package jp.ricecakesoftware.irasutoyarock_paper_scissors;
+package jp.ricecakesoftware.irasutoyarockpaperscissors;
 
 import org.junit.Test;
 

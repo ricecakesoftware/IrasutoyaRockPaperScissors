@@ -1,12 +1,12 @@
-package jp.ricecakesoftware.irasutoyarock_paper_scissors.activities;
+package jp.ricecakesoftware.irasutoyarockpaperscissors.activities;
 
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import jp.ricecakesoftware.irasutoyarock_paper_scissors.R;
-import jp.ricecakesoftware.irasutoyarock_paper_scissors.databinding.ActivityMainBinding;
-import jp.ricecakesoftware.irasutoyarock_paper_scissors.viewmodels.MainViewModel;
+import jp.ricecakesoftware.irasutoyarockpaperscissors.R;
+import jp.ricecakesoftware.irasutoyarockpaperscissors.databinding.ActivityMainBinding;
+import jp.ricecakesoftware.irasutoyarockpaperscissors.viewmodels.MainViewModel;
 
 /**
  * メインアクティビティー
