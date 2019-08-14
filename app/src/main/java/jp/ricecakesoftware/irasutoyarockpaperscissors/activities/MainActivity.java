@@ -1,8 +1,9 @@
 package jp.ricecakesoftware.irasutoyarockpaperscissors.activities;
 
-import android.databinding.DataBindingUtil;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.databinding.DataBindingUtil;
+
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 
 import jp.ricecakesoftware.irasutoyarockpaperscissors.R;
 import jp.ricecakesoftware.irasutoyarockpaperscissors.databinding.ActivityMainBinding;

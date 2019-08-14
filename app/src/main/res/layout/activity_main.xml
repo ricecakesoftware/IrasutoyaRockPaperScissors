@@ -5,7 +5,7 @@
     <data>
         <variable name="viewModel" type="jp.ricecakesoftware.irasutoyarockpaperscissors.viewmodels.MainViewModel" />
     </data>
-    <android.support.constraint.ConstraintLayout
+    <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:context=".activities.MainActivity">
@@ -78,5 +78,5 @@
                 android:onClick="@{(v) -> viewModel.onClickPaper(v)}" />
         </LinearLayout>
 
-    </android.support.constraint.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
