@@ -1,4 +1,4 @@
-package ricecakesoftware.irasutoyarock_paper_scissors.bindingadapters;
+package jp.ricecakesoftware.irasutoyarock_paper_scissors.bindingadapters;
 
 import android.databinding.BindingAdapter;
 import android.widget.ImageView;

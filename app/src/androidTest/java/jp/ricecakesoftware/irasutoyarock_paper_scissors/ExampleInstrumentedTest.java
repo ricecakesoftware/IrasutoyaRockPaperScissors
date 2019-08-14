@@ -1,4 +1,4 @@
-package ricecakesoftware.irasutoyarock_paper_scissors;
+package jp.ricecakesoftware.irasutoyarock_paper_scissors;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("ricecakesoftware.irasutoyarock_paper_scissors", appContext.getPackageName());
+        assertEquals("jp.ricecakesoftware.irasutoyarock_paper_scissors", appContext.getPackageName());
     }
 }
